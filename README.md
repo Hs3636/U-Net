@@ -8,7 +8,6 @@
 - Dhwanan Bharadva (202251028)  
 
 **Professor:** Dr. Jignesh Bhatt  
-**Date:** September 1, 2025  
 
 ---
 
